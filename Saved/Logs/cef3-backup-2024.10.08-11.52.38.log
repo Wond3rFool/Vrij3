@@ -1,0 +1,24 @@
+[1008/114759.926:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1008/135233.768:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 1 time(s)
+[1008/135233.866:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[1008/135233.875:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 2 time(s)
+[1008/135233.882:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 3 time(s)
+[1008/135233.889:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 4 time(s)
+[1008/135233.895:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 5 time(s)
+[1008/135233.900:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 6 time(s)
+[1008/135233.900:ERROR:browser_gpu_channel_host_factory.cc(154)] Failed to launch GPU process.
+[1008/135234.197:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[1008/135234.198:ERROR:browser_gpu_channel_host_factory.cc(154)] Failed to launch GPU process.
+[1008/135234.529:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[1008/135234.863:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[1008/135235.196:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[1008/135235.529:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[1008/135235.863:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[1008/135236.196:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[1008/135236.530:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[1008/135236.863:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[1008/135237.197:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[1008/135237.529:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[1008/135237.863:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[1008/135238.196:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[1008/135238.529:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.

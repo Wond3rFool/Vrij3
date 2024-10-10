@@ -1,0 +1,36 @@
+[+] Containers:
+ |- [+] Container: /Game/Maps/ActualLevel
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:072CDC804EC06A58C58EE0AF3BF7F296 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_CC96E5084605B42302_1533256136 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=390.000 Y=-10.000 Z=190.000), Max=(X=390.000 Y=-10.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:15B4A9364A8B8EDB1A3C36B2A40155F7 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:2AF373A1482AF74FFCDEBE999188D671 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_CC96E5084605B42302_1699376139 Label:DirectionalLight2 SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:072CDC804EC06A58C58EE0AF3BF7F296 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_CC96E5084605B42302_1533256136 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=390.000 Y=-10.000 Z=190.000), Max=(X=390.000 Y=-10.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:15B4A9364A8B8EDB1A3C36B2A40155F7 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:2AF373A1482AF74FFCDEBE999188D671 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_CC96E5084605B42302_1699376139 Label:DirectionalLight2 SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Maps/ActualLevel
+----------------------------------------------------------------------------------------------------------------
+ActualLevel - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of ActualLevel Persistent Level
+ |- Always loaded Actor Count: 3 
+ |- Actor Path: /Game/Maps/ActualLevel.ActualLevel:PersistentLevel.DirectionalLight_UAID_CC96E5084605B42302_1699376139
+ |- Actor Package: /Game/__ExternalActors__/Maps/ActualLevel/9/IT/8O2M63NKN1I9A9LLNQEFFC
+ |- Actor Path: /Game/Maps/ActualLevel.ActualLevel:PersistentLevel.SkyAtmosphere_UAID_CC96E5084605B42302_1533256136
+ |- Actor Package: /Game/__ExternalActors__/Maps/ActualLevel/8/85/1U6UCXX5RU8A4HK3MZMHIF
+ |- Actor Path: /Game/Maps/ActualLevel.ActualLevel:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/Maps/ActualLevel/E/48/L482MGAB9K04MELRSR67J3
+
+----------------------------------------------------------------------------------------------------------------
+ActualLevel - Runtime Hash Set
+----------------------------------------------------------------------------------------------------------------
+
