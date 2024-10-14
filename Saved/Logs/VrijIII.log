@@ -1477,3 +1477,116 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.10.14-08.26.55:730][  1]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.10.14-08.26.55:730][  1]LogContentValidation: Display: Validating asset /Game/Maps/ActualLevel.ActualLevel
 [2024.10.14-08.26.55:730][  1]AssetCheck: /Game/Maps/ActualLevel Validating asset
+[2024.10.14-08.43.32:970][769]LogDerivedDataCache: C:/Users/Tiago/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.10.14-08.47.35:572][848]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/Tiago/Documents/Unreal Projects/Vrij3/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2024.10.14-08.47.35:572][848]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/Tiago/Documents/Unreal Projects/Vrij3/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2024.10.14-08.47.35:572][848]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/Tiago/Documents/Unreal Projects/Vrij3/Content/Developers/Tiago/Collections/' because it could not be accessed. Aborting watch request...
+[2024.10.14-09.24.27:917][730]LogSlate: Took 0.007705 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.10.14-09.24.30:087][987]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/KoreanTraditionalMartialArts/Meshs/Characters/Meshs/PA_Soldier_4.PA_Soldier_4
+[2024.10.14-09.24.30:231][987]LogTexture: Display: Building textures: /Game/KoreanTraditionalMartialArts/Meshs/Characters/Textures/T_Cloth_2_M.T_Cloth_2_M (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.14-09.24.30:236][987]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Soldier_4) ...
+[2024.10.14-09.24.30:240][987]LogTexture: Display: Building textures: /Game/KoreanTraditionalMartialArts/Meshs/Characters/Textures/T_Body_N.T_Body_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.10.14-09.24.30:241][987]LogSkeletalMesh: Building Skeletal Mesh SKM_Soldier_4...
+[2024.10.14-09.24.30:242][987]LogTexture: Display: Building textures: /Game/KoreanTraditionalMartialArts/Meshs/Characters/Textures/T_Body_BC.T_Body_BC (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.10.14-09.24.30:287][987]LogTexture: Display: Building textures: /Game/KoreanTraditionalMartialArts/Meshs/Characters/Textures/T_Cloth_1_BC.T_Cloth_1_BC (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.10.14-09.24.30:300][987]LogTexture: Display: Building textures: /Game/KoreanTraditionalMartialArts/Meshs/Characters/Textures/T_Cloth_2_N.T_Cloth_2_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.10.14-09.24.30:303][987]LogTexture: Display: Building textures: /Game/KoreanTraditionalMartialArts/Meshs/Characters/Textures/T_Cloth_1_N.T_Cloth_1_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.10.14-09.24.30:314][987]LogTexture: Display: Building textures: /Game/KoreanTraditionalMartialArts/Meshs/Characters/Textures/T_Cloth_2_BC.T_Cloth_2_BC (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.10.14-09.24.30:515][987]LogTexture: Display: Building textures: /Game/KoreanTraditionalMartialArts/Meshs/Characters/Textures/T_Cloth_2_R.T_Cloth_2_R (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.14-09.24.30:554][987]LogTexture: Display: Building textures: /Game/KoreanTraditionalMartialArts/Meshs/Characters/Textures/T_Cloth_2_S.T_Cloth_2_S (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.10.14-09.24.30:579][987]LogTexture: Display: Building textures: /Game/KoreanTraditionalMartialArts/Meshs/Characters/Textures/T_Eye_N.T_Eye_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.10.14-09.24.30:582][987]LogTexture: Display: Building textures: /Game/KoreanTraditionalMartialArts/Meshs/Characters/Textures/T_Eyeblow_BC.T_Eyeblow_BC (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.10.14-09.24.30:583][987]LogTexture: Display: Building textures: /Game/KoreanTraditionalMartialArts/Meshs/Characters/Textures/T_Face_4_BC.T_Face_4_BC (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.10.14-09.24.30:587][987]LogTexture: Display: Building textures: /Game/KoreanTraditionalMartialArts/Meshs/Characters/Textures/T_Eye_BC.T_Eye_BC (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.10.14-09.24.30:750][987]LogTexture: Display: Building textures: /Game/KoreanTraditionalMartialArts/Meshs/Characters/Textures/T_Face_4_S.T_Face_4_S (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.10.14-09.24.30:764][987]LogTexture: Display: Building textures: /Game/KoreanTraditionalMartialArts/Meshs/Characters/Textures/T_Face_4_N.T_Face_4_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.10.14-09.24.30:772][987]LogTexture: Display: Building textures: /Game/KoreanTraditionalMartialArts/Meshs/Characters/Textures/T_Hair_BC.T_Hair_BC (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.10.14-09.24.30:785][987]LogTexture: Display: Building textures: /Game/KoreanTraditionalMartialArts/Meshs/Characters/Textures/T_Mouth_BC.T_Mouth_BC (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.10.14-09.24.30:803][987]LogTexture: Display: Building textures: /Game/KoreanTraditionalMartialArts/Meshs/Characters/Textures/T_HairSide_BC.T_HairSide_BC (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.10.14-09.24.30:805][987]LogTexture: Display: Building textures: /Game/KoreanTraditionalMartialArts/Meshs/Characters/Textures/T_Mouth_N.T_Mouth_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.10.14-09.24.30:916][987]LogTexture: Display: Building textures: /Game/KoreanTraditionalMartialArts/Meshs/Characters/Textures/T_Mouth_R.T_Mouth_R (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.14-09.24.30:919][987]LogTexture: Display: Building textures: /Game/KoreanTraditionalMartialArts/Meshs/Characters/Textures/T_Mouth_S.T_Mouth_S (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.14-09.24.31:080][987]LogSkeletalMesh: Display: /Game/KoreanTraditionalMartialArts/Meshs/Characters/Meshs/SKM_Soldier_4.SKM_Soldier_4 ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2024.10.14-09.24.31:724][987]LogSkeletalMesh: Built Skeletal Mesh [1.49s] /Game/KoreanTraditionalMartialArts/Meshs/Characters/Meshs/SKM_Soldier_4.SKM_Soldier_4
+[2024.10.14-09.24.31:780][987]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2024.10.14-09.24.31:835][987]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2024.10.14-09.24.32:201][987]LogSkeletalMesh: Building Skeletal Mesh SKM_Soldier_1...
+[2024.10.14-09.24.32:235][987]LogSlate: Took 0.004655 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.10.14-09.24.32:236][987]LogTexture: Display: Building textures: /Game/KoreanTraditionalMartialArts/Meshs/Characters/Textures/T_Face_1_S.T_Face_1_S (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.10.14-09.24.32:252][987]LogTexture: Display: Building textures: /Game/KoreanTraditionalMartialArts/Meshs/Characters/Textures/T_Face_1_N.T_Face_1_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.10.14-09.24.32:254][987]LogTexture: Display: Building textures: /Game/KoreanTraditionalMartialArts/Meshs/Characters/Textures/T_Face_1_BC.T_Face_1_BC (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.10.14-09.24.33:810][ 50]LogSkeletalMesh: Built Skeletal Mesh [1.61s] /Game/KoreanTraditionalMartialArts/Meshs/Characters/Meshs/SKM_Soldier_1.SKM_Soldier_1
+[2024.10.14-09.24.42:216][630]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/KoreanTraditionalMartialArts/Meshs/Characters/Meshs/PA_Soldier_3.PA_Soldier_3
+[2024.10.14-09.24.42:245][630]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Soldier_3) ...
+[2024.10.14-09.24.42:245][630]LogSkeletalMesh: Building Skeletal Mesh SKM_Soldier_3...
+[2024.10.14-09.24.42:285][630]LogTexture: Display: Building textures: /Game/KoreanTraditionalMartialArts/Meshs/Characters/Textures/T_Face_3_S.T_Face_3_S (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.10.14-09.24.42:310][630]LogTexture: Display: Building textures: /Game/KoreanTraditionalMartialArts/Meshs/Characters/Textures/T_Face_3_N.T_Face_3_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.10.14-09.24.42:315][630]LogTexture: Display: Building textures: /Game/KoreanTraditionalMartialArts/Meshs/Characters/Textures/T_Face_3_BC.T_Face_3_BC (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.10.14-09.24.42:975][630]LogSkeletalMesh: Display: /Game/KoreanTraditionalMartialArts/Meshs/Characters/Meshs/SKM_Soldier_3.SKM_Soldier_3 ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2024.10.14-09.24.43:665][630]LogSkeletalMesh: Built Skeletal Mesh [1.42s] /Game/KoreanTraditionalMartialArts/Meshs/Characters/Meshs/SKM_Soldier_3.SKM_Soldier_3
+[2024.10.14-09.24.43:688][630]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2024.10.14-09.24.45:450][751]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/KoreanTraditionalMartialArts/Meshs/Characters/Meshs/PA_Soldier_2.PA_Soldier_2
+[2024.10.14-09.24.45:484][751]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Soldier_2) ...
+[2024.10.14-09.24.45:484][751]LogSkeletalMesh: Building Skeletal Mesh SKM_Soldier_2...
+[2024.10.14-09.24.45:512][751]LogTexture: Display: Building textures: /Game/KoreanTraditionalMartialArts/Meshs/Characters/Textures/T_Face_2_S.T_Face_2_S (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.10.14-09.24.45:527][751]LogTexture: Display: Building textures: /Game/KoreanTraditionalMartialArts/Meshs/Characters/Textures/T_Face_2_N.T_Face_2_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.10.14-09.24.45:529][751]LogTexture: Display: Building textures: /Game/KoreanTraditionalMartialArts/Meshs/Characters/Textures/T_Face_2_BC.T_Face_2_BC (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.10.14-09.24.47:232][751]LogSkeletalMesh: Built Skeletal Mesh [1.75s] /Game/KoreanTraditionalMartialArts/Meshs/Characters/Meshs/SKM_Soldier_2.SKM_Soldier_2
+[2024.10.14-09.24.47:257][751]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2024.10.14-09.25.32:819][ 27]LogSlate: Window 'PA_Soldier_2' being destroyed
+[2024.10.14-09.25.32:823][ 27]LogSlate: Window 'PA_Soldier_2' being destroyed
+[2024.10.14-09.25.32:838][ 27]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-09.25.32:838][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-09.25.32:874][ 27]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-09.25.32:874][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-09.25.32:903][ 27]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-09.25.32:903][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-09.25.32:934][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.10.14-09.26.40:104][527]LogShaderCompilers: Display: ================================================
+[2024.10.14-09.26.40:104][527]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.14-09.26.40:104][527]LogShaderCompilers: Display: Total job queries 386, among them cache hits 51 (13.21%), DDC hits 6 (1.55%), Duplicates 103 (26.68%)
+[2024.10.14-09.26.40:104][527]LogShaderCompilers: Display: Tracking 232 distinct input hashes that result in 131 distinct outputs (56.47%)
+[2024.10.14-09.26.40:104][527]LogShaderCompilers: Display: RAM used: 3.40 MiB of 1.60 GiB budget. Usage: 0.21%
+[2024.10.14-09.26.40:104][527]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.14-09.26.40:104][527]LogShaderCompilers: Display: Shaders Compiled: 226
+[2024.10.14-09.26.40:104][527]LogShaderCompilers: Display: Jobs assigned 226, completed 226 (100%)
+[2024.10.14-09.26.40:104][527]LogShaderCompilers: Display: Average time worker was idle: 579.18 s
+[2024.10.14-09.26.40:104][527]LogShaderCompilers: Display: Time job spent in pending queue: average 3.46 s, longest 8.99 s
+[2024.10.14-09.26.40:104][527]LogShaderCompilers: Display: Job execution time: average 2.45 s, max 4.39 s
+[2024.10.14-09.26.40:104][527]LogShaderCompilers: Display: Job life time (pending + execution): average 5.91 s, max 9.70
+[2024.10.14-09.26.40:104][527]LogShaderCompilers: Display: Shader code size: average 38.473 KiB, min 3.406 KiB, max 63.23 KiB
+[2024.10.14-09.26.40:104][527]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 13.59 s
+[2024.10.14-09.26.40:104][527]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.08%
+[2024.10.14-09.26.40:104][527]LogShaderCompilers: Display: Jobs were issued in 69 batches (only local compilation was used), average 3.28 jobs/batch
+[2024.10.14-09.26.40:104][527]LogShaderCompilers: Display: Average processing rate: 16.63 jobs/sec
+[2024.10.14-09.26.40:104][527]LogShaderCompilers: Display: Total thread time: 69.441 s
+[2024.10.14-09.26.40:104][527]LogShaderCompilers: Display: Total thread preprocess time: 2.993 s
+[2024.10.14-09.26.40:104][527]LogShaderCompilers: Display: Percentage time preprocessing: 4.31%
+[2024.10.14-09.26.40:104][527]LogShaderCompilers: Display: Effective parallelization: 5.11 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.10.14-09.26.40:104][527]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.14-09.26.40:104][527]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   28 times, average 0.74 sec, max 1.07 sec, min 0.49 sec)
+[2024.10.14-09.26.40:104][527]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   11 times, average 0.36 sec, max 0.42 sec, min 0.25 sec)
+[2024.10.14-09.26.40:104][527]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   31 times, average 0.35 sec, max 0.47 sec, min 0.23 sec)
+[2024.10.14-09.26.40:104][527]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS (compiled   14 times, average 0.30 sec, max 0.38 sec, min 0.26 sec)
+[2024.10.14-09.26.40:104][527]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS (compiled   14 times, average 0.30 sec, max 0.35 sec, min 0.25 sec)
+[2024.10.14-09.26.40:104][527]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.14-09.26.40:104][527]LogShaderCompilers: Display:                                             FDebugViewModePS - 29.91% of total time (compiled   28 times, average 0.74 sec, max 1.07 sec, min 0.49 sec)
+[2024.10.14-09.26.40:104][527]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.42% of total time (compiled   31 times, average 0.35 sec, max 0.47 sec, min 0.23 sec)
+[2024.10.14-09.26.40:104][527]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.35% of total time (compiled   44 times, average 0.21 sec, max 0.27 sec, min 0.10 sec)
+[2024.10.14-09.26.40:104][527]LogShaderCompilers: Display:                                             FDebugViewModeVS - 6.96% of total time (compiled   30 times, average 0.16 sec, max 0.22 sec, min 0.10 sec)
+[2024.10.14-09.26.40:104][527]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.56% of total time (compiled   17 times, average 0.27 sec, max 0.32 sec, min 0.22 sec)
+[2024.10.14-09.26.40:104][527]LogShaderCompilers: Display: === Material stats ===
+[2024.10.14-09.26.40:104][527]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.10.14-09.26.40:104][527]LogShaderCompilers: Display: Materials Translated:    155
+[2024.10.14-09.26.40:104][527]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2024.10.14-09.26.40:104][527]LogShaderCompilers: Display: Material Translation Only: 0.03 s (33%)
+[2024.10.14-09.26.40:104][527]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2024.10.14-09.26.40:104][527]LogShaderCompilers: Display: Material Cache Hits: 33 (21%)
+[2024.10.14-09.26.40:104][527]LogShaderCompilers: Display: ================================================
+[2024.10.14-09.43.32:970][566]LogDerivedDataCache: C:/Users/Tiago/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.10.14-10.28.57:705][919]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-10.28.57:755][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.10.14-10.28.57:760][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.10.14-10.28.57:764][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2024.10.14-10.28.57:771][919]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.455 ms (total: 232.216 ms)
+[2024.10.14-10.43.32:971][643]LogDerivedDataCache: C:/Users/Tiago/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
